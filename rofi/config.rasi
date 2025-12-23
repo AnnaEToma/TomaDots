@@ -1,0 +1,32 @@
+* {
+	radius: 2px;
+  }
+
+configuration {
+                modes: [ combi ];
+                combi-modes: [ window, drun, run ];
+              }
+
+//              @theme "gruvbox-dark-hard"
+
+//@theme "/usr/share/rofi/themes/material.rasi"
+
+//@theme "/usr/share/rofi/themes/purple.rasi"
+
+//@theme "/usr/share/rofi/themes/purple-edit.rasi"
+
+//@theme "/usr/share/rofi/themes/Monokai.rasi"
+
+//@theme "/usr/share/rofi/themes/arthur.rasi"
+
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+
+//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+
+//@theme "/usr/share/rofi/themes/material.rasi"
+
+//@theme "/usr/share/rofi/themes/fancy.rasi"
+
+@theme "/usr/share/rofi/themes/lb.rasi"
